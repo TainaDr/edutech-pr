@@ -1,0 +1,179 @@
+.title {
+	text-align: center;
+	font-size: 1em;
+	margin: 0 0 3em;
+	clear: left;
+	font-style: italic;
+	margin-left: 15em;
+	margin-right: 15em;
+}
+
+
+.vet {
+	width: 20%;
+}
+
+
+header {
+	background: #ebb5d1;
+	padding: 20px 0;
+}
+
+ul {
+	margin-left: 1000px;
+	margin-bottom: 10px;
+
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #0f0212;
+	text-decoration: underline;
+}
+
+.mapa {
+	padding: 3em 0;
+	background: linear-gradient(#ca5be3, #ebb5d1);
+}
+
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.caixa {
+	position: relative;
+	width: 1040px;
+	margin: 0 auto;
+}
+
+.home {
+	margin-top: 1em;
+}
+
+.azul th  {
+	 background-color: #c9a2db;
+}
+
+body {
+	background-color: black;
+	background: linear-gradient(#ed68ba, #e39dc1);
+}
+
+h3 {
+	font-style: italic;
+}
+
+table {
+	margin: 20px 0 40px;
+}
+
+
+.forms {
+
+}
+
+.bot {
+	color: pink;
+}
+
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+img {
+	width: 60%;
+}
+
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.produtos li:hover {
+	border-color: #C78C19;
+}
+
+.produtos li:active {
+	border-color: #088C19;	
+}
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.produto-preco {
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+footer {
+	text-align: center;
+	background: #ebb5d1;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+.jpg {
+	width: 10%;
+}
+
+.cont {
+	width: 3%;
+}
+
+.cont li:hover {
+	border-color: #C78C19;
+}
+
+.cont li:active {
+	border-color: #088C19;	
+}
+
+.cont li:hover h2 {
+	font-size: 34px;
+}
